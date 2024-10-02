@@ -5,7 +5,7 @@ img: /assets/dalle.png
 img_alt: Dalle Image Generator
 description: |
   Presented at a company-wide tech conference, the Dalle Image Generator is a state-of-the-art application designed to streamline and enhance the creative process. Utilizing OpenAI's Dalle model, it empowers users to generate unique images based on textual descriptions, offering an invaluable tool for designers, developers, and content creators alike.
-href: https://benstechknowdemo.vercel.app/create
+href: https://vercelstack2.vercel.app/create
 tags:
   - Design
   - Dev
