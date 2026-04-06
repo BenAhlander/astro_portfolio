@@ -1,6 +1,6 @@
 ---
 title: Bed Bath and Beyond Trade
-publishDate: 2023
+publishDate: 2026-04-02
 img: /assets/shopDesign.png
 img_alt: Bed Bath and Beyond | Trade
 description: |

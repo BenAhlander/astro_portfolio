@@ -1,6 +1,6 @@
 ---
 title: Chunker
-publishDate: 2019-10-02 00:00:00
+publishDate: 2026-04-01
 img: /assets/chunker.png
 img_alt: Platform for sharing short-term commercial warehouse space, container storage, and logistic services
 description: Chunker stands as the premier marketplace for short-term warehouse solutions, seamlessly connecting businesses in need of temporary storage and logistics services with available spaces nationwide. This platform revolutionizes how companies manage surplus inventory, seasonal stock fluctuations, and logistical needs by offering a comprehensive suite of services that includes warehouse space, container storage, freight forwarding, and third-party logistics (3PL) services. Designed to be the ultimate resource for businesses seeking flexibility in their supply chain management, Chunker simplifies the process of finding and securing short-term storage and logistics solutions, ensuring that your operations remain fluid and efficient. Whether you're looking to declutter your space, store extra inventory, or enhance your facility's revenue through unused capacity, Chunker is your go-to solution for all short-term logistics needs.
